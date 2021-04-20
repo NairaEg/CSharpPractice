@@ -1,0 +1,11 @@
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\bin\Debug\netcoreapp2.1\HW_Telescope.deps.json
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\bin\Debug\netcoreapp2.1\HW_Telescope.runtimeconfig.json
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\bin\Debug\netcoreapp2.1\HW_Telescope.runtimeconfig.dev.json
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\bin\Debug\netcoreapp2.1\HW_Telescope.dll
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\bin\Debug\netcoreapp2.1\HW_Telescope.pdb
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.csprojAssemblyReference.cache
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.csproj.CoreCompileInputs.cache
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.AssemblyInfoInputs.cache
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.AssemblyInfo.cs
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.dll
+C:\Users\lerni\source\repos\HW_Telescope\HW_Telescope\obj\Debug\netcoreapp2.1\HW_Telescope.pdb

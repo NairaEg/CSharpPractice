@@ -1,0 +1,13 @@
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lerni\source\repos\OOP\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.CoreCompileInputs.cache
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\lerni\source\repos\OOP\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.genruntimeconfig.cache
