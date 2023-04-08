@@ -4,6 +4,6 @@ services:
   build:
    context: .
   environment:
-   - ASPNETCORE_ENVIRONMENT = Docker
+   - ASPNETCORE_ENVIRONMENT=Docker
   ports:
    - "5200:80"

@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{810563DD-8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrmWeb", "src\CrmWeb\CrmWeb.csproj", "{16C6B8E8-0119-4077-8131-50020D7A2BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Services", "src\Crm.Services\Crm.Services.csproj", "{4D87EE5A-D8A2-48B4-A724-BBCD61C57C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Models", "src\Crm.Models\Crm.Models.csproj", "{0AC80883-1FC8-4232-9B0D-B27061197E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D87EE5A-D8A2-48B4-A724-BBCD61C57C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D87EE5A-D8A2-48B4-A724-BBCD61C57C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D87EE5A-D8A2-48B4-A724-BBCD61C57C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D87EE5A-D8A2-48B4-A724-BBCD61C57C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC80883-1FC8-4232-9B0D-B27061197E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC80883-1FC8-4232-9B0D-B27061197E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC80883-1FC8-4232-9B0D-B27061197E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC80883-1FC8-4232-9B0D-B27061197E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
