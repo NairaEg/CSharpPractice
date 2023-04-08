@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{810563DD-83B3-40F0-A471-1DC1ACEDC3AF}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrmWeb", "src\CrmWeb\CrmWeb.csproj", "{16C6B8E8-0119-4077-8131-50020D7A2BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C6B8E8-0119-4077-8131-50020D7A2BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B57CDB-9BC9-4472-9F64-20F13C219C40}
+	EndGlobalSection
+EndGlobal

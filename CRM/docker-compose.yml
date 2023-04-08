@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+ crm:
+  build:
+   context: .
+  environment:
+   - ASPNETCORE_ENVIRONMENT = Docker
+  ports:
+   - "5200:80"
